@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MainTabDefs>
+
+  <MainTabDef>
+    <defName>HelloWorld</defName>
+    <label>Hello world</label>
+    <description>Hello world demo project.</description>
+    <windowClass>Zit.MainTabWindow_HelloWorld</windowClass>
+    <order>20</order>
+  </MainTabDef>
+
+</MainTabDefs>

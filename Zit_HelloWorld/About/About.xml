@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hello World</name>
+  <author>Zit</author>
+  <!-- <url>https://ludeon.com/forums/index.php?topic=16120.0</url> -->
+  <targetVersion>0.14.1249</targetVersion>
+  <description>Hello World demo debug mod
+  </description>
+</ModMetaData>
